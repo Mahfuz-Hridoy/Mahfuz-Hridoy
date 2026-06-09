@@ -1,12 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Mahfuz Hridoy</h1>
 <h3 align="center">CSE Student | Aspiring Software Engineer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Mahfuz-Hridoy">
-    <img src="https://komarev.com/ghpvc/?username=Mahfuz-Hridoy&label=Profile%20views&color=00FFFF&style=flat-square" alt="Mahfuz-Hridoy's profile views" />
-  </a>
-</p>
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1wc2MxdTF6bnZvZXNvaGpmNDM2am5yenBobnNubjhnZWxpaDVhNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
